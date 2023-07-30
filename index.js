@@ -1,4 +1,5 @@
 const path=require('path')
+const g="g"
 const fs=require('fs')
 const http=require('http')
 const loadash=require('lodash')
